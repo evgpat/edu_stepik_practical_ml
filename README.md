@@ -3,7 +3,7 @@
 
 ## Содержание курса
 1. Организация курса
-2. Знакомство с машинным обучением [Урок](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_demo.ipynb), [Pipeline практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_task.ipynb), [EDA практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/EDA_task.ipynb)
+2. Знакомство с машинным обучением [[Занятие](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_demo.ipynb), [Pipeline практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_task.ipynb), [EDA практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/EDA_task.ipynb)]
 3. Градиентный спуск
 4. Линейные модели регрессии
 5. Линейные модели классификации - 1
