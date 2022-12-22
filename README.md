@@ -5,7 +5,7 @@
 1. Организация курса
 2. Знакомство с машинным обучением [[Занятие](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_demo.ipynb), [Pipeline практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_task.ipynb), [EDA практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/EDA_task.ipynb)]
 3. Градиентный спуск
-4. Линейные модели регрессии
+4. Линейные модели регрессии [[Линейная регрессия практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/LinReg_task.ipynb)]
 5. Линейные модели классификации - 1
 6. Линейные модели классификации - 2
 7. Многоклассовая классификация
