@@ -3,6 +3,7 @@
 
 ## Содержание курса
 1. Организация курса
+- [Глоссарий](Glossary.md)
 2. Знакомство с машинным обучением
 - [Схема проекта по машинному обучению](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_demo.ipynb)
 - [Pipeline, практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/Pipeline_task.ipynb)
