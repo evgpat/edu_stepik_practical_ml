@@ -12,6 +12,7 @@
 - [Линейная регрессия, практика](https://github.com/evgpat/edu_stepik_practical_ml/blob/main/LinReg_task.ipynb)
 4. Градиентный спуск
 - [Градиентный спуск с одной переменной](GD_one_variable_demo.ipynb)
+- [Градиентный спуск для нескольких переменных](GD_multiple_variables_demo.ipynb)
 5. Линейные модели классификации - 1
 6. Линейные модели классификации - 2
 7. Многоклассовая классификация
